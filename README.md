@@ -9,6 +9,7 @@ details are flagged for review.
 **Result:** 275 rows in, 257 out, 18 duplicates removed, 43 rows flagged.
 
 ![Before and after](Beforeafter.png)
+![Cleaning report](PWERSHELLSCREENSHOT.webp)
 
 **Run it:**
 python clean_data.py messy_customers.csv cleaned_customers.csv
